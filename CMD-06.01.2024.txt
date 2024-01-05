@@ -1,0 +1,41 @@
+
+Commands
+
+1.Open Github
+2.Create New Respository with using (ReadMe.md & Node file)
+3.Create new Folder on dekstop & git clone this repository in that folder
+   using right click & git bash here
+4. ->git clone ......(copied link from repository code)
+
+5.Open that desktop's folder -cmd
+6.-cd SDM11
+7.-mkdir public
+8.-cd public
+9.-mkdir images
+10.download some images & store that images in images folder
+11.Open that folder in Visual Studio Code
+12.In public folder create sdm.html file
+13.create server.js file in out of public folder
+14.create "Dockerfile" in Notepad & store out of public folder
+
+15.Open AWS and login
+16.create instance and launch
+17.Security->click blue link->click edit inbound->click add rule->click custom as("All traffic")->custom as (Anywhere Ipv4)->save rule
+18.connect to instance terminal
+
+
+
+19.-sudo apt update
+25.-git clone ......(copied link from repository code)
+ls
+cd SDM
+20.-sudo apt install nodejs
+21.-sudo apt install npm
+22.-npm install express
+28.-npm init(enter till yes)
+26.-ls
+29.-sudo apt install docker.io
+32.-sudo docker build -t sk .
+37.-sudo docker run -d -p 8000:8000 ietproject
+36.-sudo docker ps
+...
